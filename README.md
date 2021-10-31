@@ -1,4 +1,8 @@
-# Build-and-Dockerize-a-Full-stack-React-app-with-Node.js-MySQL-and-Nginx-for-reverse-proxy
+Build and dockerize a simple application using :
+* React
+* Nodejs
+* Mysql
+* Nginx for reverse proxy
 
 Run `npm i` inside the client directory
 
