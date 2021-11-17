@@ -1,4 +1,5 @@
-#Simple dockerfile
+#Simple dockerfile to containerize nodejs app
+
 FROM node:alpine
 WORKDIR /app
 COPY package.json ./
